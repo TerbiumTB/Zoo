@@ -16,3 +16,4 @@
 /Users/timofejbulgakov/VSCodeProjects/Zoo/Zoo/Zoo/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/timofejbulgakov/VSCodeProjects/Zoo/Zoo/Zoo/obj/Debug/net9.0/Zoo.csproj.AssemblyReference.cache
 /Users/timofejbulgakov/VSCodeProjects/Zoo/Zoo/Zoo/obj/Debug/net9.0/Zoo.csproj.Up2Date
+/Users/timofejbulgakov/VSCodeProjects/Zoo/Zoo/Zoo/obj/Debug/net9.0/Zoo.sourcelink.json
