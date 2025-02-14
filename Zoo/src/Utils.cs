@@ -55,10 +55,11 @@ static class UtilsScan{
             return null;
         }
         while(!output.All(Char.IsLetter)){
+            Console.Write("Некорректный ввод. Введите слово без пробелов или пустую строку: ");
+            output = Console.ReadLine();
             if (String.IsNullOrEmpty(output)){
                 return null;
             }
-            Console.Write("Некорректный ввод. Введите слово без пробелов или пустую строку: ");
         }
 
         return output;
